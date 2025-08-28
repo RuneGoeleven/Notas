@@ -6,6 +6,9 @@
  nu hebben we alles aangeduid wat we willen versturen naar github om dit op te sturen moeten we de command "git commit -m "berichtje" gebruiken. het berichtje is gewoon in woorden wat je aangepast hebt dit moet niet meer dan 2 woorden zijn.
  
 
-om te vertellen wie je bent moet je de comands --global user.email "jouw email" en --global user.name "jouw username" gebruiken 
+om te vertellen wie je bent moet je de comands "--global user.email "jouw email" en --global user.name "jouw username" gebruiken 
 
 om je paketje te versturen moet je de command git push gebruiken 
+
+
+![[Pasted image 20250828151642.png]]
