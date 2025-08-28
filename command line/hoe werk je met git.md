@@ -10,5 +10,8 @@ om te vertellen wie je bent moet je de comands "--global user.email "jouw email"
 
 om je paketje te versturen moet je de command git push gebruiken 
 
+de commind "git status" kan gebruikt worden om te zien wat je laatste accties zijn geweest
+
+
 
 ![[Pasted image 20250828151642.png]]
