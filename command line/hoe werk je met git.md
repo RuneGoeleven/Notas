@@ -16,4 +16,4 @@ de commind "git status" kan gebruikt worden om te zien wat je laatste accties zi
 
 
 
-![[Pasted image 20250828151642.png]]
+![[werken met git.png]]
