@@ -1,0 +1,1 @@
+analyse is het bestuderen hoe functies veranderen.
