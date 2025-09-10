@@ -13,128 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiskunde/math jax.md",
+                "file": "rune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "math jax"
-            }
-          },
-          {
-            "id": "e57d3f2b0438532c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/1.1 eentermen en veeltermen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1 eentermen en veeltermen"
-            }
-          },
-          {
-            "id": "55ed275eb5f1e852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/stappen plannen/veeltermen/waaraan is de coëficient van x tot de nde gelijk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "waaraan is de coëficient van x tot de nde gelijk"
-            }
-          },
-          {
-            "id": "069205b3197cee79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/1.2 euclidische deling en deelbaarheid van veeltermen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.2 euclidische deling en deelbaarheid van veeltermen"
-            }
-          },
-          {
-            "id": "d46079f43003dc79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/stappen plannen/veeltermen/een veelterm is deelbaar door een andere veelter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "een veelterm is deelbaar door een andere veelter"
-            }
-          },
-          {
-            "id": "324389ea3a3926d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/stappen plannen/veeltermen/bereken a en b.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bereken a en b"
-            }
-          },
-          {
-            "id": "544fc4c74c5e12d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/stappen plannen/veeltermen/vermenigvuldigen van eentermen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vermenigvuldigen van eentermen"
-            }
-          },
-          {
-            "id": "baab2e54f7fe568a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/stappen plannen/veeltermen/waaraan is de coëficient van x tot de nde gelijk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "waaraan is de coëficient van x tot de nde gelijk"
-            }
-          },
-          {
-            "id": "2c72ab8e0bf60447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/merkwaardige producten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "merkwaardige producten"
+              "title": "rune"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,45 +170,45 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d46079f43003dc79",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "wiskunde/1.2 euclidische deling en deelbaarheid van veeltermen.md",
-    "wiskunde/stappen plannen/veeltermen/een veelterm is deelbaar door een andere veelter.md",
-    "wiskunde/stappen plannen/veeltermen/vraagstukken met veeltermen.md",
-    "wiskunde/stappen plannen/veeltermen/waaraan is de coëficient van x tot de nde gelijk.md",
-    "wiskunde/merkwaardige producten.md",
-    "wiskunde/1.1 rekenen met termen.md",
-    "wiskunde/1.1 eentermen en veeltermen.md",
-    "wiskunde/stappen plannen/veeltermen/bereken a en b.md",
-    "wiskunde/stappen plannen/veeltermen/oefening zoals 2D oplossen.png",
-    "wiskunde/stappen plannen/veeltermen/werk de gegeven veelterm uit.md",
-    "wiskunde/stappen plannen/veeltermen/vermenigvuldigen van eentermen.md",
-    "wiskunde/stappen plannen/veeltermen/oefeningen zoals 2D oplossen.md",
-    "wiskunde/stappen plannen/veeltermen",
-    "wiskunde/stappen plannen",
-    "wiskunde/1.1 stappen eentermen en veeltermen.md",
-    "wiskunde parate kennis/functie.md",
-    "wiskunde parate kennis/discriminant.md",
-    "wiskunde parate kennis/stappen functies.md",
-    "wiskunde/analyse.md",
-    "wiskunde/math jax.md",
-    "wiskunde/Naamloos 1.md",
     "mechanica/formules.md",
     "rune.md",
+    "wiskunde/hoofdstuk 1/1.3 delen door x-a.md",
+    "wiskunde/hoofdstuk 1/1.2 euclidische deling en deelbaarheid van veeltermen.md",
+    "wiskunde/hoofdstuk 1/delen door x-a.png",
+    "wiskunde parate kennis/stappen functies.md",
+    "wiskunde/hoofdstuk 1",
+    "Naamloos",
+    "wiskunde parate kennis/functie.md",
+    "wiskunde parate kennis/discriminant.md",
+    "homeassistent.md",
+    "wiskunde/math jax.md",
+    "wiskunde/merkwaardige producten.md",
+    "wiskunde/stappen plannen/veeltermen/vermenigvuldigen van eentermen.md",
+    "wiskunde/stappen plannen/veeltermen/oefeningen zoals 2D oplossen.md",
+    "wiskunde/stappen plannen/veeltermen/vraagstukken met veeltermen.md",
+    "wiskunde/stappen plannen/veeltermen/een veelterm is deelbaar door een andere veelter.md",
+    "wiskunde/stappen plannen/veeltermen/oefening zoals 2D oplossen.png",
+    "wiskunde/stappen plannen/veeltermen/bereken a en b.md",
+    "wiskunde/stappen plannen/veeltermen/waaraan is de coëficient van x tot de nde gelijk.md",
+    "wiskunde/hoofdstuk 1/1.1 rekenen met termen.md",
+    "wiskunde/hoofdstuk 1/1.1 eentermen en veeltermen.md",
+    "wiskunde/stappen plannen/veeltermen/werk de gegeven veelterm uit.md",
+    "wiskunde/stappen plannen/veeltermen",
+    "wiskunde/stappen plannen",
+    "wiskunde/hoofdstuk 1/1.1 stappen eentermen en veeltermen.md",
+    "wiskunde/analyse.md",
+    "wiskunde/Naamloos 1.md",
     "powershell/sisteem variabelen.md",
     "powershell/hoe inport je posh-git.md",
     "mechanica",
     "rijbewijs B.md",
-    "domein.md",
-    "templates/dagelijks.md",
-    "templates/wiskunde.md",
     "wiskunde parate kennis",
     "command line/werken met git.png",
     "dagelijks",
     "Naamloos.base",
     "templates",
-    "wiskunde",
-    "powershell",
-    "git"
+    "wiskunde"
   ]
 }

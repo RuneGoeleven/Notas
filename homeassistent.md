@@ -1,0 +1,1 @@
+http://homeassistant.local:8123/lovelace/0
