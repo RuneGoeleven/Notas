@@ -1,3 +1,7 @@
+---
+tags:
+  - veeltermen
+---
 1. lees de vraag 
 2. vereenvoudig de veelterm zo ver mogelijk 
 3. is het resultaat een eenterm of een (on)volledige veelterm

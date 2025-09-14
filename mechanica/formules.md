@@ -1,3 +1,8 @@
+---
+tags:
+  - omvormen_formules
+---
+## snelheid + afgelegde weg 
 $v=v0+a*t$ 
 v is de snelheid
 met a is 9,81
@@ -15,5 +20,6 @@ y
 ***
 $vy=voy-g*t$
 $sy=syo+voy*t-\frac{g*t}{2}$
+
 
 

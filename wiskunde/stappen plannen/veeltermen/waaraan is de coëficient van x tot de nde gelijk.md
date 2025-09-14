@@ -1,6 +1,6 @@
 1. lees de vraag
 2. nadenken hoe geraak ik aan $x^n$ 
-3. bewerkingen met veeltermen uitvoeren, hou rekening met merkwaardige producten 
+3. bewerkingen met veeltermen uitvoeren, hou rekening met [[merkwaardige producten]] 
 4. zoek $x^n$ 
 5. schrijf de coeficient als antw zin 
 

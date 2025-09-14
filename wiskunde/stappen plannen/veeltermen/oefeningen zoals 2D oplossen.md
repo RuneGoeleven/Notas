@@ -1,7 +1,14 @@
+---
+tags:
+  - ontbinden_in_factoren
+  - nulwaarden
+---
 ![[oefening zoals 2D oplossen.png]]
 
 we zien hier dat f(x) op 2 manieren geschreven kan worden 
-
+één keer volledig 
+één keer onbonden
+[[ontbinden in factoren]]
 we zien dat er in de 2de functie 3 nulwaarden zijn. (1,2,3)
 er word gevraagt om c0 c1en c2 uit te rekenen 
 
@@ -21,7 +28,7 @@ c0+c1+c2=10
 stappenplan:
 1. lees de vraag
 2. zoek al de nulwarden 
-3. vul de nulwaarden in die het meest voorkomt 
+3. vul de [nulwaarden](wiskunde/hoofdstuk%201/1.4%20nulwaarden%20en%20tekenschema.md) in die het meest voorkomt 
 4. reken c0 uit
 5. vul de 2de meest voorkomen nulwaarden in 
 6. reken c1 uit

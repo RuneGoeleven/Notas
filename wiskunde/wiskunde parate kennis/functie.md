@@ -1,3 +1,9 @@
+---
+tags:
+  - omvormen_formules
+  - eentermen
+  - veeltermen
+---
 
 Een functie geeft het verband weer tussen een onafhankelijke veranderlijke x en een afhankelijke veranderlijke y.Hierbij hoort bij elke waarde van de onafhankelijke veranderlijke hoogstens éénwaarde van de afhankelijke veranderlijke.
 
