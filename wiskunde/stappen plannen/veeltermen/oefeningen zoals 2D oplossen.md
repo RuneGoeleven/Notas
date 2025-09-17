@@ -28,7 +28,7 @@ c0+c1+c2=10
 stappenplan:
 1. lees de vraag
 2. zoek al de nulwarden 
-3. vul de [nulwaarden](wiskunde/hoofdstuk%201/1.4%20nulwaarden%20en%20tekenschema.md) in die het meest voorkomt 
+3. vul de [nulwaarden](1.3%20nulwaarden%20en%20tekenschema.md) in die het meest voorkomt 
 4. reken c0 uit
 5. vul de 2de meest voorkomen nulwaarden in 
 6. reken c1 uit

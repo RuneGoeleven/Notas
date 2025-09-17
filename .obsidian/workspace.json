@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiskunde/hoofdstuk 1/1.4 nulwaarden en tekenschema.md",
+                "file": "wiskunde/hoofdstuk 1/1.4 veeltermongelijkheden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 nulwaarden en tekenschema"
+              "title": "1.4 veeltermongelijkheden"
             }
           }
         ]
@@ -172,12 +172,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "rune.md",
-    "Naamloos.md",
-    "wiskunde/hoofdstuk 1/1.4 nulwaarden en tekenschema.md",
-    "wiskunde/hoofdstuk 1/1.3 delen door x-a.md",
-    "wiskunde/hoofdstuk 1/1.2 euclidische deling en deelbaarheid van veeltermen.md",
+    "wiskunde/analyse.md",
+    "wiskunde/math jax.md",
+    "wiskunde/hoofdstuk 1/1.4 veeltermongelijkheden.md",
+    "wiskunde/hoofdstuk 1/1.3 nulwaarden en tekenschema.md",
+    "wiskunde/hoofdstuk 1/1.2 delen door x-a.md",
     "wiskunde/hoofdstuk 1/1.1 rekenen met termen.md",
+    "wiskunde/wiskunde parate kennis/ontbinden in factoren.md",
+    "Naamloos 1.md",
+    "rune.md",
+    "wiskunde/hoofdstuk 1/1.2 euclidische deling en deelbaarheid van veeltermen.md",
     "wiskunde/hoofdstuk 1/1.1 eentermen en veeltermen.md",
     "wiskunde/stappen plannen/veeltermen/werk de gegeven veelterm uit.md",
     "wiskunde/wiskunde parate kennis/functie.md",
@@ -191,20 +195,16 @@
     "wiskunde/stappen plannen/veeltermen/vraagstukken met veeltermen.md",
     "wiskunde/stappen plannen/veeltermen/een veelterm is deelbaar door een andere veelterm.md",
     "wiskunde/stappen plannen/veeltermen/1.1 stappen eentermen en veeltermen.md",
-    "wiskunde/wiskunde parate kennis/ontbinden in factoren.md",
     "wiskunde/wiskunde parate kennis/rekenen met letters.md",
     "wiskunde/hoe maak ik toetsen.md",
     "wiskunde/wiskunde parate kennis/merkwaardige producten.md",
-    "wiskunde/analyse.md",
     "wiskunde/wiskunde parate kennis/breuken vereenvoudigen.md",
     "fotos/Pasted image 20250914192217.png",
-    "wiskunde parate kennis/Naamloos 1.md",
     "fotos/Pasted image 20250914191748.png",
     "fotos/Pasted image 20250914191734.png",
     "fotos/Pasted image 20250914191712.png",
     "fotos/Pasted image 20250914191651.png",
     "fotos/Pasted image 20250914191636.png",
-    "wiskunde/stappen plannen/veeltermen/waaraan is de coëficient van x tot de nde gelijk.md",
     "fotos",
     "fotos/delen door x-a.png",
     "fotos/oefening zoals 2D oplossen.png",

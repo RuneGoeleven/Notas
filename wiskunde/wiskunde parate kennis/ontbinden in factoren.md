@@ -3,7 +3,7 @@ tags:
   - "#ontbinden_in_factoren"
 ---
 
-[[1.3 delen door x-a]]
+[[1.2 delen door x-a]]
 [[merkwaardige producten]]
 
 	
