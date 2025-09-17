@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f718e2504ac88eb",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafiek weergave"
+              "type": "markdown",
+              "state": {
+                "file": "wiskunde/hoofdstuk 1/1.4 nulwaarden en tekenschema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4 nulwaarden en tekenschema"
             }
           }
         ]
@@ -166,18 +170,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8ec33d67801bc173",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "wiskunde/wiskunde parate kennis/functie.md",
-    "wiskunde/hoofdstuk 1/1.1 rekenen met termen.md",
-    "wiskunde/wiskunde parate kennis/discriminant.md",
+    "rune.md",
+    "Naamloos.md",
     "wiskunde/hoofdstuk 1/1.4 nulwaarden en tekenschema.md",
-    "wiskunde/stappen plannen/veeltermen/werk de gegeven veelterm uit.md",
-    "wiskunde/stappen plannen/veeltermen/werk a en b uit oef. 1cs.md",
-    "mechanica/formules.md",
     "wiskunde/hoofdstuk 1/1.3 delen door x-a.md",
     "wiskunde/hoofdstuk 1/1.2 euclidische deling en deelbaarheid van veeltermen.md",
+    "wiskunde/hoofdstuk 1/1.1 rekenen met termen.md",
     "wiskunde/hoofdstuk 1/1.1 eentermen en veeltermen.md",
+    "wiskunde/stappen plannen/veeltermen/werk de gegeven veelterm uit.md",
+    "wiskunde/wiskunde parate kennis/functie.md",
+    "wiskunde/wiskunde parate kennis/discriminant.md",
+    "wiskunde/stappen plannen/veeltermen/werk a en b uit oef. 1cs.md",
+    "mechanica/formules.md",
     "omvormen van formules.md",
     "fotos/Pasted image 20250914193559.png",
     "wiskunde/stappen plannen/veeltermen/oefeningen zoals 2D oplossen.md",
@@ -199,11 +205,9 @@
     "fotos/Pasted image 20250914191651.png",
     "fotos/Pasted image 20250914191636.png",
     "wiskunde/stappen plannen/veeltermen/waaraan is de coëficient van x tot de nde gelijk.md",
-    "wiskunde/wiskunde parate kennis/volgorden van bewerking.md",
     "fotos",
     "fotos/delen door x-a.png",
     "fotos/oefening zoals 2D oplossen.png",
-    "wiskunde/hoofdstuk.md",
     "fotos/Pasted image 20250914185537.png",
     "elek",
     "wiskunde/hoofdstuk 1",
