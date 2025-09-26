@@ -43,3 +43,13 @@ wie moet geen gordel dragen
 .postboden die van huis tot huis gaat 
 .hulpdiensten 
 .iemand die achteruit rijd
+
+een gele verkeerszuil moet ik altijd langs rechts voorbijrijden
+
+delen kruispunt:
+de rijbaan 
+de fietspaden
+de bermen
+de trottoirs voor voetgangers
+
+als je een dier nadert dat een teken van angst vertoont moet je stoppen
