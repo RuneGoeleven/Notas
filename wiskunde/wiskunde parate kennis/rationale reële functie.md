@@ -5,6 +5,7 @@ basis vorm= $f(x)=\frac{C}{X}$
 $domf=\mathbb{R}_0$
 $berf=\mathbb{R}_0$
 
+als C negatief is dan spiegelt de hyperbool t.o.vX-ass
 tekenschema voor - en + C
 $$
 \begin{array}{c|cccccc}
