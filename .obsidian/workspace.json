@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiskunde/hoofdstuk 2/2.3 homografische functies.md",
+                "file": "wiskunde/hoofdstuk 2/2.4 asymtoten en perforaties van rationale functies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 homografische functies"
-            }
-          },
-          {
-            "id": "69247cdc857b5b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/hoofdstuk 2/2.3 transformaties.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3 transformaties"
-            }
-          },
-          {
-            "id": "adbe53dcd570e086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/hoofdstuk 2/2.3 transformaties.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3 transformaties"
+              "title": "2.4 asymtoten en perforaties van rationale functies"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,11 +170,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "adbe53dcd570e086",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "rune.md",
+    "wiskunde/hoofdstuk 2/2.4 asymtoten en perforaties van rationale functies.md",
     "Pasted image 20251008151035.png",
-    "wiskunde/wiskunde parate kennis/rationale reële functie.md",
     "wiskunde/hoofdstuk 2/2.3 transformaties.md",
+    "wiskunde/wiskunde parate kennis/rationale reële functie.md",
     "wiskunde/hoofdstuk 2/2.3 homografische functies.md",
     "wiskunde/hoofdstuk 2/2.2 nulwaarden en tekenschema van rationalen functies.md",
     "wiskunde/wiskunde parate kennis/ontbinden in factoren.md",
@@ -214,7 +187,6 @@
     "wiskunde/wiskunde parate kennis/discriminant.md",
     "wiskunde/hoofdstuk 2/2.1 definitie en domein van een rationale functie.md",
     "wiskunde/analyse.md",
-    "rune.md",
     "wiskunde/wiskunde parate kennis/breuken vereenvoudigen.md",
     "wiskunde/wiskunde parate kennis/rekenen met letters.md",
     "wiskunde/hoofdstuk 1/1.1 eentermen en veeltermen.md",
@@ -226,7 +198,6 @@
     "wiskunde/math jax.md",
     "wiskunde/Naamloos 1.md",
     "wiskunde/stappen plannen/rationale functies/oefeningen zoals 2D.md",
-    "wiskunde/wiskunde parate kennis/volgorden van bewerking.md",
     "wiskunde/stappen plannen/rationale functies",
     "wiskunde/hoofdstuk 2",
     "fotos/Pasted image 20250914193559.png",
@@ -239,7 +210,6 @@
     "fotos",
     "fotos/delen door x-a.png",
     "fotos/oefening zoals 2D oplossen.png",
-    "fotos/Pasted image 20250914185537.png",
     "elek",
     "wiskunde/hoofdstuk 1",
     "Naamloos",
