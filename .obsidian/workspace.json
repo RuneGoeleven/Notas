@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "09809d1941be9498",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7852cd0b41ae8969",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/hoofdstuk 3/breuken met machten Nde macht wortel.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "breuken met machten Nde macht wortel"
+              "title": "Nieuw tabblad"
             }
           }
         ]
@@ -170,13 +166,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8ec33d67801bc173",
+  "active": "7852cd0b41ae8969",
   "lastOpenFiles": [
+    "wiskunde/hoofdstuk 3/3.1breuken met machten, Nde macht wortel.md",
+    "wiskunde/wiskunde parate kennis/rationale reële functie.md",
+    "wiskunde/hoofdstuk 2/2.4 asymtoten en perforaties van rationale functies.md",
+    "wiskunde/hoofdstuk 2/2.3 homografische functies.md",
+    "wiskunde/hoofdstuk 3/3.3 Oplossen van irationale vergelijking.md",
+    "wiskunde/hoofdstuk 3/3.2defenitie en domein van irationale functie zoeken.md",
+    "wiskunde/wiskunde parate kennis/functie.md",
+    "Pasted image 20251109141324.png",
+    "rune.md",
     "wiskunde/hoofdstuk 3",
     "wiskunde/wiskunde parate kennis/discriminant.md",
-    "wiskunde/hoofdstuk 3/breuken met machten Nde macht wortel.md",
     "wiskunde/wiskunde parate kennis/breuken vereenvoudigen.md",
-    "rune.md",
     "Pasted image 20251104181603.png",
     "Pasted image 20251104181521.png",
     "fotos/Pasted image 20251008151035.png",
@@ -187,9 +190,7 @@
     "fotos/Pasted image 20251104175838.png",
     "Pasted image 20251104175748.png",
     "fotos/Pasted image 20251104175746.png",
-    "wiskunde/hoofdstuk 2/2.3 homografische functies.md",
     "wiskunde/hoofdstuk 2/2.3 transformaties.md",
-    "wiskunde/hoofdstuk 2/2.4 asymtoten en perforaties van rationale functies.md",
     "wiskunde/hoofdstuk 1/1.5 grafisch onderzoek van veeltermfuncties.md",
     "wiskunde/hoofdstuk 1/1.4 veeltermongelijkheden.md",
     "wiskunde/hoofdstuk 1/1.3 nulwaarden en tekenschema.md",
@@ -201,22 +202,17 @@
     "wiskunde/hoe maak ik toetsen.md",
     "wiskunde/stappen plannen/veeltermen/tekenschema.md",
     "wiskunde/hoofdstuk 2/2.1 definitie en domein van een rationale functie.md",
-    "wiskunde/wiskunde parate kennis/rationale reële functie.md",
     "wiskunde/wiskunde parate kennis/ontbinden in factoren.md",
     "wiskunde/wiskunde parate kennis/omvormen van formules.md",
-    "wiskunde/wiskunde parate kennis/merkwaardige producten.md",
-    "wiskunde/wiskunde parate kennis/functie.md",
     "wiskunde/stappen plannen/rationale functies",
     "wiskunde/hoofdstuk 2",
     "fotos/Pasted image 20250914193559.png",
-    "fotos/Pasted image 20250914192217.png",
     "fotos",
     "elek",
     "wiskunde/hoofdstuk 1",
     "Naamloos",
     "wiskunde/stappen plannen/veeltermen",
     "wiskunde/stappen plannen",
-    "mechanica",
-    "wiskunde/wiskunde parate kennis"
+    "mechanica"
   ]
 }

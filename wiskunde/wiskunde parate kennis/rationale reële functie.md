@@ -1,3 +1,8 @@
+---
+tags:
+  - breuken
+  - rationale_functie
+---
 
 
 basis vorm= $f(x)=\frac{C}{X}$
