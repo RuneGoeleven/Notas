@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "09809d1941be9498",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7852cd0b41ae8969",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiskunde/hoofdstuk 3/3.3 Oplossen van irationale vergelijking.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nieuw tabblad"
+              "title": "3.3 Oplossen van irationale vergelijking"
+            }
+          },
+          {
+            "id": "4b309d8578877e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiskunde/hoofdstuk 3/3.4 nulwaarden en tekenschema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.4 nulwaarden en tekenschema"
+            }
+          },
+          {
+            "id": "790a98eb34a5fa99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiskunde/hoofdstuk 3/3.5 grafisch onderzoek van irrationale functies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.5 grafisch onderzoek van irrationale functies"
+            }
+          },
+          {
+            "id": "5bc4713d31d4ae84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiskunde/hoofdstuk 3/inverse functie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inverse functie"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,17 +213,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7852cd0b41ae8969",
+  "active": "5bc4713d31d4ae84",
   "lastOpenFiles": [
+    "Pasted image 20251116112728.png",
+    "wiskunde/hoofdstuk 3/3.5 grafisch onderzoek van irrationale functies.md",
+    "wiskunde/hoofdstuk 3/inverse functie.md",
+    "wiskunde/hoofdstuk 3/3.4 nulwaarden en tekenschema.md",
+    "wiskunde/hoofdstuk 3/3.3 Oplossen van irationale vergelijking.md",
+    "rune.md",
     "wiskunde/hoofdstuk 3/3.1breuken met machten, Nde macht wortel.md",
     "wiskunde/wiskunde parate kennis/rationale reële functie.md",
     "wiskunde/hoofdstuk 2/2.4 asymtoten en perforaties van rationale functies.md",
     "wiskunde/hoofdstuk 2/2.3 homografische functies.md",
-    "wiskunde/hoofdstuk 3/3.3 Oplossen van irationale vergelijking.md",
     "wiskunde/hoofdstuk 3/3.2defenitie en domein van irationale functie zoeken.md",
     "wiskunde/wiskunde parate kennis/functie.md",
     "Pasted image 20251109141324.png",
-    "rune.md",
     "wiskunde/hoofdstuk 3",
     "wiskunde/wiskunde parate kennis/discriminant.md",
     "wiskunde/wiskunde parate kennis/breuken vereenvoudigen.md",
@@ -200,10 +251,6 @@
     "wiskunde/hoofdstuk 1/1.1 eentermen en veeltermen.md",
     "wiskunde/hoofdstuk 2/2.2 nulwaarden en tekenschema van rationalen functies.md",
     "wiskunde/hoe maak ik toetsen.md",
-    "wiskunde/stappen plannen/veeltermen/tekenschema.md",
-    "wiskunde/hoofdstuk 2/2.1 definitie en domein van een rationale functie.md",
-    "wiskunde/wiskunde parate kennis/ontbinden in factoren.md",
-    "wiskunde/wiskunde parate kennis/omvormen van formules.md",
     "wiskunde/stappen plannen/rationale functies",
     "wiskunde/hoofdstuk 2",
     "fotos/Pasted image 20250914193559.png",
