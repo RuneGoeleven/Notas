@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "468faf86ba79e5d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/hoofdstuk 4/4.3 groeifactor over verschillende periodes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4.3 groeifactor over verschillende periodes"
+              "title": "Nieuw tabblad"
             }
           }
         ]
@@ -170,22 +166,33 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "468faf86ba79e5d7",
   "lastOpenFiles": [
+    "wiskunde/wiskunde parate kennis/formules meetkunden.md",
+    "wiskunde/hoofdstuk 4/4.4 exponentiële vergelijkingen en ongelijkheden.md",
+    "rune.md",
+    "wiskunde/hoofdstuk 4/4.3 groeifactor over verschillende periodes.md",
+    "wiskunde/hoofdstuk 3/3.2defenitie en domein van irationale functie zoeken.md",
+    "Pasted image 20251104181521.png",
+    "wiskunde/wiskunde parate kennis/breuken vereenvoudigen.md",
+    "wiskunde/analyse.md",
+    "wiskunde/math jax.md",
+    "homeassistent.md",
+    "Pasted image 20251104181603.png",
+    "wiskunde/hoofdstuk 3/3.3 Oplossen van irationale vergelijking.md",
+    "wiskunde/hoofdstuk 3/3.5 grafisch onderzoek van irrationale functies.md",
+    "wiskunde/hoofdstuk 3/3.4 nulwaarden en tekenschema.md",
+    "wiskunde/hoofdstuk 3/3.1breuken met machten, Nde macht wortel.md",
+    "elek/1.sinusoïdale spaning en stromen.md",
+    "chemie",
+    "wiskunde/examen.md",
     "wiskunde/hoofdstuk 4/4.2 exponetiele toenamen of afnamen.md",
     "wiskunde/hoofdstuk 4/4.1 exponentiele groei en lineare groei.md",
-    "wiskunde/hoofdstuk 4/4.3 groeifactor over verschillende periodes.md",
-    "rune.md",
     "Pasted image 20251122185625.png",
     "Pasted image 20251122185551.png",
     "Pasted image 20251122185422.png",
-    "wiskunde/hoofdstuk 3/3.1breuken met machten, Nde macht wortel.md",
     "wiskunde/hoofdstuk 4",
     "wiskunde/hoofdstuk 3/3.6 inverse functie.md",
-    "wiskunde/hoofdstuk 3/3.5 grafisch onderzoek van irrationale functies.md",
-    "wiskunde/hoofdstuk 3/3.4 nulwaarden en tekenschema.md",
-    "wiskunde/hoofdstuk 3/3.3 Oplossen van irationale vergelijking.md",
-    "wiskunde/hoofdstuk 3/3.2defenitie en domein van irationale functie zoeken.md",
     "wiskunde/hoofdstuk 2/2.4 asymtoten en perforaties van rationale functies.md",
     "wiskunde/hoofdstuk 2/2.3 transformaties.md",
     "wiskunde/hoofdstuk 2/2.3 homografische functies.md",
@@ -196,27 +203,16 @@
     "Pasted image 20251109141324.png",
     "wiskunde/hoofdstuk 3",
     "wiskunde/wiskunde parate kennis/discriminant.md",
-    "wiskunde/wiskunde parate kennis/breuken vereenvoudigen.md",
-    "Pasted image 20251104181603.png",
-    "Pasted image 20251104181521.png",
     "fotos/Pasted image 20251008151035.png",
-    "elek/1.sinusoïdale spaning en stromen.md",
     "elek/2.RLC schakelingen.md",
     "fotos/Pasted image 20251104180224.png",
     "wiskunde/hoofdstuk 1/1.5 grafisch onderzoek van veeltermfuncties.md",
-    "wiskunde/hoofdstuk 1/1.4 veeltermongelijkheden.md",
-    "wiskunde/hoofdstuk 1/1.3 nulwaarden en tekenschema.md",
-    "wiskunde/hoofdstuk 1/1.2 euclidische deling en deelbaarheid van veeltermen.md",
-    "wiskunde/hoofdstuk 1/1.2 delen door x-a.md",
-    "wiskunde/hoofdstuk 1/1.1 rekenen met termen.md",
-    "wiskunde/hoofdstuk 1/1.1 eentermen en veeltermen.md",
     "wiskunde/stappen plannen/rationale functies",
     "wiskunde/hoofdstuk 2",
     "fotos",
     "elek",
     "wiskunde/hoofdstuk 1",
     "Naamloos",
-    "wiskunde/stappen plannen/veeltermen",
-    "wiskunde/stappen plannen"
+    "wiskunde/stappen plannen/veeltermen"
   ]
 }
