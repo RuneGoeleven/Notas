@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rune.md",
+                "file": "wiskunde/hoofdstuk 4/logaritme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rune"
-            }
-          },
-          {
-            "id": "80e5533e19c37d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiskunde/hoofdstuk 5/5.0 voorkenis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.0 voorkenis"
+              "title": "logaritme"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +170,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "80e5533e19c37d11",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wiskunde/hoofdstuk 4/4.5 exponentiële vergelijkingen en ongelijkheden.md",
+    "wiskunde/hoofdstuk 4/4.4 exponentiële functie.md",
+    "wiskunde/hoofdstuk 4/4.3 groeifactor over verschillende periodes.md",
+    "wiskunde/hoofdstuk 4/4.2 exponetiele toenamen of afnamen.md",
+    "wiskunde/hoofdstuk 4/4.1 exponentiele groei en lineare groei.md",
+    "rune.md",
+    "wiskunde/hoofdstuk 5/5.0 voorkenis.md",
     "Pasted image 20260112173933.png",
     "Pasted image 20260112173901.png",
     "Pasted image 20260112173528.png",
@@ -195,14 +187,10 @@
     "Pasted image 20260112173356.png",
     "Pasted image 20260112173033.png",
     "wiskunde/Naamloos.md",
-    "wiskunde/hoofdstuk 5/5.0 voorkenis.md",
     "wiskunde/hoofdstuk 5",
-    "rune.md",
     "wiskunde/hoofdstuk 4/logaritme.md",
     "Pasted image 20260106174431.png",
     "Pasted image 20260106174357.png",
-    "wiskunde/hoofdstuk 4/4.4 exponentiële functie.md",
-    "wiskunde/hoofdstuk 4/4.5 exponentiële vergelijkingen en ongelijkheden.md",
     "elek/2.RLC schakelingen.md",
     "wiskunde/examen.md",
     "wiskunde/hoofdstuk 1/1.2 delen door x-a.md",
@@ -210,9 +198,6 @@
     "wiskunde/wiskunde parate kennis/merkwaardige producten.md",
     "wiskunde/stappen plannen/rationale functies/oefeningen zoals 2D.md",
     "wiskunde/cheat sheet trim 1 2025-2026.md",
-    "wiskunde/hoofdstuk 4/4.3 groeifactor over verschillende periodes.md",
-    "wiskunde/hoofdstuk 4/4.2 exponetiele toenamen of afnamen.md",
-    "wiskunde/hoofdstuk 4/4.1 exponentiele groei en lineare groei.md",
     "wiskunde/hoofdstuk 3/3.4 nulwaarden en tekenschema.md",
     "wiskunde/hoofdstuk 3/3.6 inverse functie.md",
     "wiskunde/hoofdstuk 3/3.5 grafisch onderzoek van irrationale functies.md",
@@ -223,7 +208,6 @@
     "wiskunde/hoofdstuk 2/2.3 transformaties.md",
     "wiskunde/hoofdstuk 2/2.2 nulwaarden en tekenschema van rationalen functies.md",
     "fotos/delen door x-a.png",
-    "fotos/oefening zoals 2D oplossen.png",
     "chemie",
     "wiskunde/hoofdstuk 4",
     "wiskunde/hoofdstuk 3",

@@ -18,3 +18,15 @@ dit is een functie met een logaritme als functie
 
 ![[Pasted image 20260106174357.png]]
 ![[Pasted image 20260106174431.png]]
+
+### algemene loogaritmische funtie 
+
+$log_{a}(x-b)+c$ 
+
+transformaties 
+$0<a<1$ => spiegeling tov x-ass
+
+b= horizontalen verschuiving met b naar links/rechts 
+
+c= verticalen verschuiving met c naar boven/onder 
+
