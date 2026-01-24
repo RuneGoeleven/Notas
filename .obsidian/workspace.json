@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiskunde/hoofdstuk 5/5.0 voorkenis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.0 voorkenis"
-            }
-          },
-          {
-            "id": "04ad1a6aabe3abe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "wiskunde/hoofdstuk 5/5.1 radialen.md",
                 "mode": "source",
                 "source": false
@@ -34,9 +20,37 @@
               "icon": "lucide-file",
               "title": "5.1 radialen"
             }
+          },
+          {
+            "id": "664dd5238f6beead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiskunde/hoofdstuk 5/5.3 periodieke funties.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3 periodieke funties"
+            }
+          },
+          {
+            "id": "0facdb3f63ba60da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiskunde/hoofdstuk 5/5.5 algemenen sinusfuntie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.5 algemenen sinusfuntie"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,11 +199,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "04ad1a6aabe3abe7",
+  "active": "0facdb3f63ba60da",
   "lastOpenFiles": [
-    "wiskunde/hoofdstuk 5/5.0 voorkenis.md",
+    "wiskunde/hoofdstuk 5/5.3 periodieke funties.md",
+    "wiskunde/hoofdstuk 5/5.5 algemenen sinusfuntie.md",
     "wiskunde/hoofdstuk 5/5.1 radialen.md",
     "rune.md",
+    "wiskunde/hoofdstuk 5/5.0 voorkenis.md",
     "wiskunde/hoofdstuk 4/logaritme.md",
     "wiskunde/hoofdstuk 4/4.5 exponentiële vergelijkingen en ongelijkheden.md",
     "wiskunde/hoofdstuk 4/4.4 exponentiële functie.md",
@@ -221,8 +237,6 @@
     "wiskunde/hoofdstuk 3/3.1breuken met machten, Nde macht wortel.md",
     "wiskunde/hoofdstuk 2/2.4 asymtoten en perforaties van rationale functies.md",
     "wiskunde/hoofdstuk 2/2.3 homografische functies.md",
-    "wiskunde/hoofdstuk 2/2.3 transformaties.md",
-    "wiskunde/hoofdstuk 2/2.2 nulwaarden en tekenschema van rationalen functies.md",
     "fotos/delen door x-a.png",
     "chemie",
     "wiskunde/hoofdstuk 4",
