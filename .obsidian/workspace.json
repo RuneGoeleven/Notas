@@ -13,30 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiskunde/B.2 H2 limieten/2.2 berekenen van limieten.md",
+                "file": "wiskunde/B.2 H3 afgelijden/3.1 gemiddelde verandering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 berekenen van limieten"
+              "title": "3.1 gemiddelde verandering"
             }
           },
           {
-            "id": "6c797c2b02b2e612",
+            "id": "401b24704a7dbc19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiskunde/B.2 H2 limieten/2.3 Berekenen van geniometrische functies.md",
+                "file": "wiskunde/B.2 H3 afgelijden/3.3 formules afgelijden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Berekenen van geniometrische functies"
+              "title": "3.3 formules afgelijden"
+            }
+          },
+          {
+            "id": "1f691e869721be99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiskunde/B.2 H3 afgelijden/3.4 verloop van veelterm functies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.4 verloop van veelterm functies"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,41 +199,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6c797c2b02b2e612",
+  "active": "1f691e869721be99",
   "lastOpenFiles": [
-    "wiskunde/B.2 H2 limieten/2.2 berekenen van limieten.md",
-    "wiskunde/B.2 H2 limieten/2.3 Berekenen van geniometrische functies.md",
-    "wiskunde/B.2 H2 limieten/2.1 limieten van reële functies.md",
+    "wiskunde/B.2 H3 afgelijden/3.3 formules afgelijden.md",
+    "wiskunde/B.2 H3 afgelijden/3.4 verloop van veelterm functies.md",
+    "wiskunde/B.2 H3 afgelijden/3.1 gemiddelde verandering.md",
+    "k",
+    "wiskunde/B.2 H3 afgelijden/3.2 afgeleiden in een punt van de grafiek van een functie.md",
     "rune.md",
+    "wiskunde/hoofdstuk 3/3.4 nulwaarden en tekenschema.md",
+    "wiskunde/hoofdstuk 3/3.3 Oplossen van irationale vergelijking.md",
+    "wiskunde/hoofdstuk 3/3.1breuken met machten, Nde macht wortel.md",
+    "wiskunde/hoofdstuk 3/3.2defenitie en domein van irationale functie zoeken.md",
+    "wiskunde/hoofdstuk 4/4.1 exponentiele groei en lineare groei.md",
+    "wiskunde/hoofdstuk 4/4.2 exponetiele toenamen of afnamen.md",
+    "wiskunde/hoofdstuk 5/5.0 voorkenis.md",
+    "wiskunde/hoofdstuk 5/5.1 radialen.md",
+    "wiskunde/hoofdstuk 5/5.2 verwante hoeken.md",
+    "wiskunde/hoofdstuk 5/5.3 periodieke funties.md",
+    "wiskunde/hoofdstuk 5/5.5 algemenen sinusfuntie.md",
+    "wiskunde/hoofdstuk 5/5.6 Goniometrische formules.md",
+    "wiskunde/hoofdstuk 5/5.7 goniomertische vergelijkingen.md",
+    "wiskunde/B2 H3 afgeleiden.md",
+    "wiskunde/B.2 H3 afgelijden",
+    "wiskunde/B.2 H2 limieten/2.4 Berekenen van assymptoten.md",
+    "wiskunde/B.2 H2 limieten/2.3 Berekenen van geniometrische functies.md",
+    "wiskunde/B.2 H2 limieten/2.2 berekenen van limieten.md",
+    "wiskunde/B.2 H2 limieten/2.1 limieten van reële functies.md",
     "Pasted image 20260314100011.png",
     "wiskunde/B.2 H1 rijen/1.3 som van de eerste n term.md",
     "wiskunde/B.2 H1 rijen/1.1 rijen.md",
     "wiskunde/B.2 H1 rijen/1.2 meetkundig en rekenkundige rijen.md",
-    "wiskunde/hoofdstuk 3/3.6 inverse functie.md",
-    "wiskunde/hoofdstuk 3/3.5 grafisch onderzoek van irrationale functies.md",
-    "wiskunde/hoofdstuk 3/3.4 nulwaarden en tekenschema.md",
-    "wiskunde/hoofdstuk 3/3.3 Oplossen van irationale vergelijking.md",
-    "wiskunde/hoofdstuk 3/3.2defenitie en domein van irationale functie zoeken.md",
-    "wiskunde/hoofdstuk 4/4.2 exponetiele toenamen of afnamen.md",
-    "wiskunde/hoofdstuk 4/4.3 groeifactor over verschillende periodes.md",
-    "wiskunde/hoofdstuk 4/4.4 exponentiële functie.md",
-    "wiskunde/hoofdstuk 4/logaritme.md",
-    "wiskunde/hoofdstuk 2/2.4 asymtoten en perforaties van rationale functies.md",
-    "wiskunde/hoofdstuk 2/2.3 homografische functies.md",
-    "wiskunde/hoofdstuk 2/2.1 definitie en domein van een rationale functie.md",
-    "wiskunde/hoofdstuk 2/2.2 nulwaarden en tekenschema van rationalen functies.md",
-    "wiskunde/hoofdstuk 2/2.3 transformaties.md",
     "Pasted image 20260314095451.png",
     "Pasted image 20260314095416.png",
     "wiskunde/B.2 H2 limieten",
     "wiskunde/B.2 H1 rijen",
-    "wiskunde/cyclometrische functies/cyclometrische funties.md",
-    "wiskunde/hoofdstuk 5/5.7 goniomertische vergelijkingen.md",
     "wiskunde/cyclometrische functies",
     "Pasted image 20260216093606.png",
-    "wiskunde/hoofdstuk 5/5.6 Goniometrische formules.md",
-    "wiskunde/hoofdstuk 5/5.1 radialen.md",
-    "wiskunde/hoofdstuk 5/5.5 algemenen sinusfuntie.md",
     "Pasted image 20260201094548.png",
     "Naamloos 1",
     "Pasted image 20260201093253.png",
@@ -230,8 +246,6 @@
     "wiskunde/hoofdstuk 5",
     "chemie",
     "wiskunde/hoofdstuk 4",
-    "wiskunde/hoofdstuk 3",
-    "wiskunde/stappen plannen/rationale functies",
-    "wiskunde/hoofdstuk 2"
+    "wiskunde/hoofdstuk 3"
   ]
 }
